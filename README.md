@@ -2,4 +2,4 @@
 
 front-end https://github.com/Am-glitch/JS_practices
 
-back-end https://github.com/Dr-Alex-Dr/adventureServer
+back-end https://github.com/Dr-Alex-Dr/advenServer
